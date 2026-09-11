@@ -1,0 +1,2954 @@
+[
+  {
+    "name": "no-skill",
+    "port": 5178,
+    "errors": [],
+    "checks": [
+      {
+        "viewport": "desktop",
+        "action": "start playback and edit first step",
+        "playLabel": "Pause loop",
+        "stepBefore": "true",
+        "stepAfter": "false"
+      },
+      {
+        "viewport": "desktop",
+        "action": "pause",
+        "playLabel": "Play loop"
+      },
+      {
+        "viewport": "mobile",
+        "action": "start playback and edit first step",
+        "playLabel": "Pause loop",
+        "stepBefore": "true",
+        "stepAfter": "false"
+      },
+      {
+        "viewport": "mobile",
+        "action": "pause",
+        "playLabel": "Play loop"
+      }
+    ],
+    "desktop": {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "smallText": [
+        {
+          "text": "®",
+          "size": "11px",
+          "color": "rgb(237, 241, 237)",
+          "tag": "SPAN",
+          "cls": "logo-dot"
+        },
+        {
+          "text": "A SPACE FOR YOUR SOUND",
+          "size": "10px",
+          "color": "rgb(185, 195, 188)",
+          "tag": "DIV",
+          "cls": "eyebrow"
+        },
+        {
+          "text": "No downloads.",
+          "size": "10px",
+          "color": "rgb(96, 107, 99)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "No music degree.",
+          "size": "10px",
+          "color": "rgb(96, 107, 99)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "Just you.",
+          "size": "10px",
+          "color": "rgb(96, 107, 99)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "SOUND IS A FEELING.",
+          "size": "9px",
+          "color": "rgb(128, 143, 130)",
+          "tag": "DIV",
+          "cls": "art-caption"
+        },
+        {
+          "text": "▂ ▅ ▃ ▇ ▄ ▂",
+          "size": "10px",
+          "color": "rgb(172, 208, 183)",
+          "tag": "SPAN",
+          "cls": "mini-wave"
+        },
+        {
+          "text": "infinite possibilities",
+          "size": "9px",
+          "color": "rgb(186, 201, 190)",
+          "tag": "SPAN",
+          "cls": "orbit-label label-one"
+        },
+        {
+          "text": "made of a little noise",
+          "size": "9px",
+          "color": "rgb(186, 201, 190)",
+          "tag": "SPAN",
+          "cls": "orbit-label label-two"
+        },
+        {
+          "text": "R — 001 / 40.72° N",
+          "size": "8px",
+          "color": "rgb(85, 100, 89)",
+          "tag": "SPAN",
+          "cls": "art-coordinate"
+        },
+        {
+          "text": "EXPERIMENT. FEEL. REPEAT.",
+          "size": "8px",
+          "color": "rgb(100, 117, 105)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "↗",
+          "size": "8px",
+          "color": "rgb(100, 117, 105)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "01 / THE PLAYGROUND",
+          "size": "9px",
+          "color": "rgb(115, 128, 119)",
+          "tag": "SPAN",
+          "cls": "section-index"
+        },
+        {
+          "text": "LIVE & ALL YOURS",
+          "size": "8px",
+          "color": "rgb(148, 172, 154)",
+          "tag": "SPAN",
+          "cls": "live-label"
+        },
+        {
+          "text": "A little lo-fi. A lot of possibility.",
+          "size": "10px",
+          "color": "rgb(113, 128, 118)",
+          "tag": "P",
+          "cls": ""
+        },
+        {
+          "text": "Lo-fi",
+          "size": "10px",
+          "color": "rgb(198, 233, 202)",
+          "tag": "BUTTON",
+          "cls": "preset active"
+        },
+        {
+          "text": "House",
+          "size": "10px",
+          "color": "rgb(130, 143, 133)",
+          "tag": "BUTTON",
+          "cls": "preset"
+        },
+        {
+          "text": "Ambient",
+          "size": "10px",
+          "color": "rgb(130, 143, 133)",
+          "tag": "BUTTON",
+          "cls": "preset"
+        },
+        {
+          "text": "01",
+          "size": "8px",
+          "color": "rgb(99, 112, 104)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "·",
+          "size": "8px",
+          "color": "rgb(99, 112, 104)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "·",
+          "size": "8px",
+          "color": "rgb(99, 112, 104)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "·",
+          "size": "8px",
+          "color": "rgb(99, 112, 104)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "02",
+          "size": "8px",
+          "color": "rgb(99, 112, 104)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "·",
+          "size": "8px",
+          "color": "rgb(99, 112, 104)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "·",
+          "size": "8px",
+          "color": "rgb(99, 112, 104)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "·",
+          "size": "8px",
+          "color": "rgb(99, 112, 104)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "03",
+          "size": "8px",
+          "color": "rgb(99, 112, 104)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "·",
+          "size": "8px",
+          "color": "rgb(99, 112, 104)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "·",
+          "size": "8px",
+          "color": "rgb(99, 112, 104)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "·",
+          "size": "8px",
+          "color": "rgb(99, 112, 104)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "04",
+          "size": "8px",
+          "color": "rgb(99, 112, 104)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "·",
+          "size": "8px",
+          "color": "rgb(99, 112, 104)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "·",
+          "size": "8px",
+          "color": "rgb(99, 112, 104)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "·",
+          "size": "8px",
+          "color": "rgb(99, 112, 104)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "Kick",
+          "size": "11px",
+          "color": "rgb(166, 176, 168)",
+          "tag": "SPAN",
+          "cls": "track-label"
+        },
+        {
+          "text": "Snare",
+          "size": "11px",
+          "color": "rgb(166, 176, 168)",
+          "tag": "SPAN",
+          "cls": "track-label"
+        },
+        {
+          "text": "Hi-hat",
+          "size": "11px",
+          "color": "rgb(166, 176, 168)",
+          "tag": "SPAN",
+          "cls": "track-label"
+        },
+        {
+          "text": "Synth",
+          "size": "11px",
+          "color": "rgb(166, 176, 168)",
+          "tag": "SPAN",
+          "cls": "track-label"
+        },
+        {
+          "text": "Play loop",
+          "size": "11px",
+          "color": "rgb(24, 39, 28)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "BPM",
+          "size": "8px",
+          "color": "rgb(101, 120, 106)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "C minor",
+          "size": "10px",
+          "color": "rgb(141, 159, 147)",
+          "tag": "SPAN",
+          "cls": "key-label"
+        },
+        {
+          "text": "Mix it up",
+          "size": "10px",
+          "color": "rgb(147, 162, 153)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "Save loop",
+          "size": "10px",
+          "color": "rgb(147, 162, 153)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "Click the steps. Change the rhythm. See where it takes you.",
+          "size": "10px",
+          "color": "rgb(105, 120, 109)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "to play / pause",
+          "size": "9px",
+          "color": "rgb(105, 120, 109)",
+          "tag": "SPAN",
+          "cls": "keyboard-tip"
+        },
+        {
+          "text": "space",
+          "size": "8px",
+          "color": "rgb(156, 172, 158)",
+          "tag": "KBD",
+          "cls": ""
+        },
+        {
+          "text": "02 / FOLLOW YOUR INSTINCT",
+          "size": "9px",
+          "color": "rgb(115, 128, 119)",
+          "tag": "SPAN",
+          "cls": "section-index"
+        },
+        {
+          "text": "01",
+          "size": "9px",
+          "color": "rgb(82, 102, 87)",
+          "tag": "SPAN",
+          "cls": "feature-number"
+        },
+        {
+          "text": "Pick a sound. Tap a step. Your first beat is already closer than you think.",
+          "size": "11px",
+          "color": "rgb(126, 140, 129)",
+          "tag": "P",
+          "cls": ""
+        },
+        {
+          "text": "02",
+          "size": "9px",
+          "color": "rgb(82, 102, 87)",
+          "tag": "SPAN",
+          "cls": "feature-number"
+        },
+        {
+          "text": "Find your rhythm. Break a pattern. The best ideas happen when you play.",
+          "size": "11px",
+          "color": "rgb(126, 140, 129)",
+          "tag": "P",
+          "cls": ""
+        },
+        {
+          "text": "03",
+          "size": "9px",
+          "color": "rgb(82, 102, 87)",
+          "tag": "SPAN",
+          "cls": "feature-number"
+        },
+        {
+          "text": "Download your loop and keep creating. Every big track starts somewhere.",
+          "size": "11px",
+          "color": "rgb(126, 140, 129)",
+          "tag": "P",
+          "cls": ""
+        },
+        {
+          "text": "LESS OVERTHINKING. MORE MAKING.",
+          "size": "8px",
+          "color": "rgb(141, 163, 147)",
+          "tag": "SPAN",
+          "cls": "eyebrow"
+        },
+        {
+          "text": "®",
+          "size": "11px",
+          "color": "rgb(175, 190, 178)",
+          "tag": "SPAN",
+          "cls": "logo-dot"
+        },
+        {
+          "text": "A little noise. Something that’s yours.",
+          "size": "9px",
+          "color": "rgb(95, 114, 100)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "© 2026 Resonance",
+          "size": "9px",
+          "color": "rgb(95, 114, 100)",
+          "tag": "SPAN",
+          "cls": ""
+        }
+      ],
+      "headings": [
+        {
+          "text": "Find yourfrequency.",
+          "size": "100px"
+        },
+        {
+          "text": "A little curiosity. A whole new sound.",
+          "size": "21px"
+        },
+        {
+          "text": "Your first happy accident",
+          "size": "12px"
+        },
+        {
+          "text": "You don't need to know.You just need to feel.",
+          "size": "39px"
+        },
+        {
+          "text": "Start with a spark.",
+          "size": "15px"
+        },
+        {
+          "text": "Make it your own.",
+          "size": "15px"
+        },
+        {
+          "text": "Take the feeling with you.",
+          "size": "15px"
+        },
+        {
+          "text": "Your sound is out there.Go find it.",
+          "size": "44px"
+        },
+        {
+          "text": "Find your starting point.",
+          "size": "29px"
+        },
+        {
+          "text": "Lo-fi",
+          "size": "13px"
+        },
+        {
+          "text": "House",
+          "size": "13px"
+        },
+        {
+          "text": "Ambient",
+          "size": "13px"
+        },
+        {
+          "text": "After hours",
+          "size": "13px"
+        },
+        {
+          "text": "Pulse",
+          "size": "13px"
+        },
+        {
+          "text": "Weightless",
+          "size": "13px"
+        }
+      ]
+    },
+    "mobile": {
+      "width": 390,
+      "scrollWidth": 390,
+      "smallText": [
+        {
+          "text": "®",
+          "size": "11px",
+          "color": "rgb(237, 241, 237)",
+          "tag": "SPAN",
+          "cls": "logo-dot"
+        },
+        {
+          "text": "Open studio",
+          "size": "11px",
+          "color": "rgb(237, 241, 237)",
+          "tag": "BUTTON",
+          "cls": "header-cta"
+        },
+        {
+          "text": "A SPACE FOR YOUR SOUND",
+          "size": "10px",
+          "color": "rgb(185, 195, 188)",
+          "tag": "DIV",
+          "cls": "eyebrow"
+        },
+        {
+          "text": "Start making music",
+          "size": "11px",
+          "color": "rgb(20, 36, 26)",
+          "tag": "BUTTON",
+          "cls": "button primary"
+        },
+        {
+          "text": "Explore the sounds",
+          "size": "10px",
+          "color": "rgb(174, 183, 175)",
+          "tag": "BUTTON",
+          "cls": "listen-link"
+        },
+        {
+          "text": "No downloads.",
+          "size": "9px",
+          "color": "rgb(96, 107, 99)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "No music degree.",
+          "size": "9px",
+          "color": "rgb(96, 107, 99)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "Just you.",
+          "size": "9px",
+          "color": "rgb(96, 107, 99)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "SOUND IS A FEELING.",
+          "size": "7px",
+          "color": "rgb(128, 143, 130)",
+          "tag": "DIV",
+          "cls": "art-caption"
+        },
+        {
+          "text": "▂ ▅ ▃ ▇ ▄ ▂",
+          "size": "9px",
+          "color": "rgb(172, 208, 183)",
+          "tag": "SPAN",
+          "cls": "mini-wave"
+        },
+        {
+          "text": "infinite possibilities",
+          "size": "9px",
+          "color": "rgb(186, 201, 190)",
+          "tag": "SPAN",
+          "cls": "orbit-label label-one"
+        },
+        {
+          "text": "made of a little noise",
+          "size": "9px",
+          "color": "rgb(186, 201, 190)",
+          "tag": "SPAN",
+          "cls": "orbit-label label-two"
+        },
+        {
+          "text": "R — 001 / 40.72° N",
+          "size": "7px",
+          "color": "rgb(85, 100, 89)",
+          "tag": "SPAN",
+          "cls": "art-coordinate"
+        },
+        {
+          "text": "EXPERIMENT. FEEL. REPEAT.",
+          "size": "7px",
+          "color": "rgb(100, 117, 105)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "↗",
+          "size": "7px",
+          "color": "rgb(100, 117, 105)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "01 / THE PLAYGROUND",
+          "size": "9px",
+          "color": "rgb(115, 128, 119)",
+          "tag": "SPAN",
+          "cls": "section-index"
+        },
+        {
+          "text": "LIVE & ALL YOURS",
+          "size": "0px",
+          "color": "rgb(148, 172, 154)",
+          "tag": "SPAN",
+          "cls": "live-label"
+        },
+        {
+          "text": "Your first happy accident",
+          "size": "11px",
+          "color": "rgb(237, 241, 237)",
+          "tag": "H3",
+          "cls": ""
+        },
+        {
+          "text": "A little lo-fi. A lot of possibility.",
+          "size": "9px",
+          "color": "rgb(113, 128, 118)",
+          "tag": "P",
+          "cls": ""
+        },
+        {
+          "text": "Lo-fi",
+          "size": "10px",
+          "color": "rgb(198, 233, 202)",
+          "tag": "BUTTON",
+          "cls": "preset active"
+        },
+        {
+          "text": "House",
+          "size": "10px",
+          "color": "rgb(130, 143, 133)",
+          "tag": "BUTTON",
+          "cls": "preset"
+        },
+        {
+          "text": "Ambient",
+          "size": "10px",
+          "color": "rgb(130, 143, 133)",
+          "tag": "BUTTON",
+          "cls": "preset"
+        },
+        {
+          "text": "01",
+          "size": "8px",
+          "color": "rgb(99, 112, 104)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "·",
+          "size": "8px",
+          "color": "rgb(99, 112, 104)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "·",
+          "size": "8px",
+          "color": "rgb(99, 112, 104)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "·",
+          "size": "8px",
+          "color": "rgb(99, 112, 104)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "02",
+          "size": "8px",
+          "color": "rgb(99, 112, 104)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "·",
+          "size": "8px",
+          "color": "rgb(99, 112, 104)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "·",
+          "size": "8px",
+          "color": "rgb(99, 112, 104)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "·",
+          "size": "8px",
+          "color": "rgb(99, 112, 104)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "03",
+          "size": "8px",
+          "color": "rgb(99, 112, 104)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "·",
+          "size": "8px",
+          "color": "rgb(99, 112, 104)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "·",
+          "size": "8px",
+          "color": "rgb(99, 112, 104)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "·",
+          "size": "8px",
+          "color": "rgb(99, 112, 104)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "04",
+          "size": "8px",
+          "color": "rgb(99, 112, 104)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "·",
+          "size": "8px",
+          "color": "rgb(99, 112, 104)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "·",
+          "size": "8px",
+          "color": "rgb(99, 112, 104)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "·",
+          "size": "8px",
+          "color": "rgb(99, 112, 104)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "Kick",
+          "size": "8px",
+          "color": "rgb(166, 176, 168)",
+          "tag": "SPAN",
+          "cls": "track-label"
+        },
+        {
+          "text": "Snare",
+          "size": "8px",
+          "color": "rgb(166, 176, 168)",
+          "tag": "SPAN",
+          "cls": "track-label"
+        },
+        {
+          "text": "Hi-hat",
+          "size": "8px",
+          "color": "rgb(166, 176, 168)",
+          "tag": "SPAN",
+          "cls": "track-label"
+        },
+        {
+          "text": "Synth",
+          "size": "8px",
+          "color": "rgb(166, 176, 168)",
+          "tag": "SPAN",
+          "cls": "track-label"
+        },
+        {
+          "text": "Play loop",
+          "size": "10px",
+          "color": "rgb(24, 39, 28)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "BPM",
+          "size": "8px",
+          "color": "rgb(101, 120, 106)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "Mix it up",
+          "size": "8px",
+          "color": "rgb(147, 162, 153)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "Save loop",
+          "size": "8px",
+          "color": "rgb(147, 162, 153)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "Click the steps. Change the rhythm. See where it takes you.",
+          "size": "9px",
+          "color": "rgb(105, 120, 109)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "02 / FOLLOW YOUR INSTINCT",
+          "size": "9px",
+          "color": "rgb(115, 128, 119)",
+          "tag": "SPAN",
+          "cls": "section-index"
+        },
+        {
+          "text": "No complicated setup between you and your next idea. Just a few simple tools, and somewher",
+          "size": "11px",
+          "color": "rgb(124, 137, 128)",
+          "tag": "P",
+          "cls": ""
+        },
+        {
+          "text": "01",
+          "size": "8px",
+          "color": "rgb(82, 102, 87)",
+          "tag": "SPAN",
+          "cls": "feature-number"
+        },
+        {
+          "text": "Pick a sound. Tap a step. Your first beat is already closer than you think.",
+          "size": "10px",
+          "color": "rgb(126, 140, 129)",
+          "tag": "P",
+          "cls": ""
+        },
+        {
+          "text": "02",
+          "size": "8px",
+          "color": "rgb(82, 102, 87)",
+          "tag": "SPAN",
+          "cls": "feature-number"
+        },
+        {
+          "text": "Find your rhythm. Break a pattern. The best ideas happen when you play.",
+          "size": "10px",
+          "color": "rgb(126, 140, 129)",
+          "tag": "P",
+          "cls": ""
+        },
+        {
+          "text": "03",
+          "size": "8px",
+          "color": "rgb(82, 102, 87)",
+          "tag": "SPAN",
+          "cls": "feature-number"
+        },
+        {
+          "text": "Download your loop and keep creating. Every big track starts somewhere.",
+          "size": "10px",
+          "color": "rgb(126, 140, 129)",
+          "tag": "P",
+          "cls": ""
+        },
+        {
+          "text": "LESS OVERTHINKING. MORE MAKING.",
+          "size": "7px",
+          "color": "rgb(141, 163, 147)",
+          "tag": "SPAN",
+          "cls": "eyebrow"
+        },
+        {
+          "text": "Let's make something",
+          "size": "11px",
+          "color": "rgb(20, 36, 26)",
+          "tag": "BUTTON",
+          "cls": "button primary"
+        },
+        {
+          "text": "®",
+          "size": "11px",
+          "color": "rgb(175, 190, 178)",
+          "tag": "SPAN",
+          "cls": "logo-dot"
+        },
+        {
+          "text": "© 2026 Resonance",
+          "size": "8px",
+          "color": "rgb(95, 114, 100)",
+          "tag": "SPAN",
+          "cls": ""
+        }
+      ],
+      "headings": [
+        {
+          "text": "Find yourfrequency.",
+          "size": "69px"
+        },
+        {
+          "text": "A little curiosity. A whole new sound.",
+          "size": "20px"
+        },
+        {
+          "text": "Your first happy accident",
+          "size": "11px"
+        },
+        {
+          "text": "You don't need to know.You just need to feel.",
+          "size": "33px"
+        },
+        {
+          "text": "Start with a spark.",
+          "size": "13px"
+        },
+        {
+          "text": "Make it your own.",
+          "size": "13px"
+        },
+        {
+          "text": "Take the feeling with you.",
+          "size": "13px"
+        },
+        {
+          "text": "Your sound is out there.Go find it.",
+          "size": "34px"
+        },
+        {
+          "text": "Find your starting point.",
+          "size": "24px"
+        },
+        {
+          "text": "Lo-fi",
+          "size": "13px"
+        },
+        {
+          "text": "House",
+          "size": "13px"
+        },
+        {
+          "text": "Ambient",
+          "size": "13px"
+        },
+        {
+          "text": "After hours",
+          "size": "13px"
+        },
+        {
+          "text": "Pulse",
+          "size": "13px"
+        },
+        {
+          "text": "Weightless",
+          "size": "13px"
+        }
+      ]
+    }
+  },
+  {
+    "name": "solo",
+    "port": 5175,
+    "errors": [],
+    "checks": [
+      {
+        "viewport": "desktop",
+        "action": "start playback and edit first step",
+        "playLabel": "Pause loop",
+        "stepBefore": "true",
+        "stepAfter": "false"
+      },
+      {
+        "viewport": "desktop",
+        "action": "pause",
+        "playLabel": "Play loop"
+      },
+      {
+        "viewport": "mobile",
+        "action": "start playback and edit first step",
+        "playLabel": "Pause loop",
+        "stepBefore": "true",
+        "stepAfter": "false"
+      },
+      {
+        "viewport": "mobile",
+        "action": "pause",
+        "playLabel": "Play loop"
+      }
+    ],
+    "desktop": {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "smallText": [
+        {
+          "text": "A little curiosity. A whole new sound.",
+          "size": "10px",
+          "color": "rgb(41, 42, 36)",
+          "tag": "P",
+          "cls": "eyebrow"
+        },
+        {
+          "text": "No downloads. No wrong notes.",
+          "size": "10px",
+          "color": "rgb(130, 131, 119)",
+          "tag": "SPAN",
+          "cls": "no-setup"
+        },
+        {
+          "text": "FIG. 01 — SOUND, TAKING SHAPE",
+          "size": "8px",
+          "color": "rgb(139, 140, 128)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "● INTERACTIVE",
+          "size": "8px",
+          "color": "rgb(219, 96, 57)",
+          "tag": "SPAN",
+          "cls": "sound-state"
+        },
+        {
+          "text": "TOUCH THE SOUND. FEEL SOMETHING.",
+          "size": "8px",
+          "color": "rgb(139, 140, 128)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "01 / THE PLAYGROUND",
+          "size": "9px",
+          "color": "rgb(125, 126, 115)",
+          "tag": "SPAN",
+          "cls": "eyebrow section-number"
+        },
+        {
+          "text": "PLAY / 001",
+          "size": "8px",
+          "color": "rgb(133, 133, 121)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "YOUR BROWSER IS A STUDIO",
+          "size": "8px",
+          "color": "rgb(119, 121, 109)",
+          "tag": "SPAN",
+          "cls": "device-live"
+        },
+        {
+          "text": "SOUND PALETTE",
+          "size": "8px",
+          "color": "rgb(133, 133, 120)",
+          "tag": "LABEL",
+          "cls": ""
+        },
+        {
+          "text": "TEMPO",
+          "size": "8px",
+          "color": "rgb(133, 133, 120)",
+          "tag": "LABEL",
+          "cls": ""
+        },
+        {
+          "text": "BPM",
+          "size": "9px",
+          "color": "rgb(131, 133, 120)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "VOLUME",
+          "size": "8px",
+          "color": "rgb(133, 133, 120)",
+          "tag": "LABEL",
+          "cls": ""
+        },
+        {
+          "text": "READY WHEN YOU ARE",
+          "size": "8px",
+          "color": "rgb(164, 172, 160)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "01 : 01",
+          "size": "8px",
+          "color": "rgb(164, 172, 160)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "01",
+          "size": "8px",
+          "color": "rgb(183, 191, 175)",
+          "tag": "SPAN",
+          "cls": "downbeat"
+        },
+        {
+          "text": "02",
+          "size": "8px",
+          "color": "rgb(110, 122, 107)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "03",
+          "size": "8px",
+          "color": "rgb(110, 122, 107)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "04",
+          "size": "8px",
+          "color": "rgb(110, 122, 107)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "05",
+          "size": "8px",
+          "color": "rgb(183, 191, 175)",
+          "tag": "SPAN",
+          "cls": "downbeat"
+        },
+        {
+          "text": "06",
+          "size": "8px",
+          "color": "rgb(110, 122, 107)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "07",
+          "size": "8px",
+          "color": "rgb(110, 122, 107)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "08",
+          "size": "8px",
+          "color": "rgb(110, 122, 107)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "09",
+          "size": "8px",
+          "color": "rgb(183, 191, 175)",
+          "tag": "SPAN",
+          "cls": "downbeat"
+        },
+        {
+          "text": "10",
+          "size": "8px",
+          "color": "rgb(110, 122, 107)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "11",
+          "size": "8px",
+          "color": "rgb(110, 122, 107)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "12",
+          "size": "8px",
+          "color": "rgb(110, 122, 107)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "13",
+          "size": "8px",
+          "color": "rgb(183, 191, 175)",
+          "tag": "SPAN",
+          "cls": "downbeat"
+        },
+        {
+          "text": "14",
+          "size": "8px",
+          "color": "rgb(110, 122, 107)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "15",
+          "size": "8px",
+          "color": "rgb(110, 122, 107)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "16",
+          "size": "8px",
+          "color": "rgb(110, 122, 107)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "Kick",
+          "size": "11px",
+          "color": "rgb(199, 203, 191)",
+          "tag": "BUTTON",
+          "cls": "track-label"
+        },
+        {
+          "text": "Snare",
+          "size": "11px",
+          "color": "rgb(199, 203, 191)",
+          "tag": "BUTTON",
+          "cls": "track-label"
+        },
+        {
+          "text": "Hi-hat",
+          "size": "11px",
+          "color": "rgb(199, 203, 191)",
+          "tag": "BUTTON",
+          "cls": "track-label"
+        },
+        {
+          "text": "Chords",
+          "size": "11px",
+          "color": "rgb(199, 203, 191)",
+          "tag": "BUTTON",
+          "cls": "track-label"
+        },
+        {
+          "text": "TAP A STEP TO MAKE IT YOURS",
+          "size": "7px",
+          "color": "rgb(164, 172, 160)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "Clear pattern",
+          "size": "9px",
+          "color": "rgb(167, 175, 160)",
+          "tag": "BUTTON",
+          "cls": ""
+        },
+        {
+          "text": "ADD A LITTLE MELODY",
+          "size": "8px",
+          "color": "rgb(128, 129, 116)",
+          "tag": "SPAN",
+          "cls": "eyebrow"
+        },
+        {
+          "text": "Use your keyboard –",
+          "size": "9px",
+          "color": "rgb(136, 136, 125)",
+          "tag": "SPAN",
+          "cls": "keyboard-hint"
+        },
+        {
+          "text": "A",
+          "size": "8px",
+          "color": "rgb(136, 136, 125)",
+          "tag": "KBD",
+          "cls": ""
+        },
+        {
+          "text": "K",
+          "size": "8px",
+          "color": "rgb(136, 136, 125)",
+          "tag": "KBD",
+          "cls": ""
+        },
+        {
+          "text": "C",
+          "size": "11px",
+          "color": "rgb(98, 102, 88)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "A",
+          "size": "8px",
+          "color": "rgb(156, 156, 144)",
+          "tag": "KBD",
+          "cls": ""
+        },
+        {
+          "text": "D",
+          "size": "11px",
+          "color": "rgb(98, 102, 88)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "S",
+          "size": "8px",
+          "color": "rgb(156, 156, 144)",
+          "tag": "KBD",
+          "cls": ""
+        },
+        {
+          "text": "E",
+          "size": "11px",
+          "color": "rgb(98, 102, 88)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "D",
+          "size": "8px",
+          "color": "rgb(156, 156, 144)",
+          "tag": "KBD",
+          "cls": ""
+        },
+        {
+          "text": "F",
+          "size": "11px",
+          "color": "rgb(98, 102, 88)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "F",
+          "size": "8px",
+          "color": "rgb(156, 156, 144)",
+          "tag": "KBD",
+          "cls": ""
+        },
+        {
+          "text": "G",
+          "size": "11px",
+          "color": "rgb(98, 102, 88)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "G",
+          "size": "8px",
+          "color": "rgb(156, 156, 144)",
+          "tag": "KBD",
+          "cls": ""
+        },
+        {
+          "text": "A",
+          "size": "11px",
+          "color": "rgb(98, 102, 88)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "H",
+          "size": "8px",
+          "color": "rgb(156, 156, 144)",
+          "tag": "KBD",
+          "cls": ""
+        },
+        {
+          "text": "B",
+          "size": "11px",
+          "color": "rgb(98, 102, 88)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "J",
+          "size": "8px",
+          "color": "rgb(156, 156, 144)",
+          "tag": "KBD",
+          "cls": ""
+        },
+        {
+          "text": "C",
+          "size": "11px",
+          "color": "rgb(98, 102, 88)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "K",
+          "size": "8px",
+          "color": "rgb(156, 156, 144)",
+          "tag": "KBD",
+          "cls": ""
+        },
+        {
+          "text": "IN THE KEY OF MADE FOR EXPLORING",
+          "size": "7px",
+          "color": "rgb(138, 139, 124)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "C MAJOR",
+          "size": "7px",
+          "color": "rgb(87, 95, 76)",
+          "tag": "STRONG",
+          "cls": ""
+        },
+        {
+          "text": "/",
+          "size": "7px",
+          "color": "rgb(138, 139, 124)",
+          "tag": "SPAN",
+          "cls": "bottom-separator"
+        },
+        {
+          "text": "Keep this loop",
+          "size": "10px",
+          "color": "rgb(138, 139, 124)",
+          "tag": "BUTTON",
+          "cls": ""
+        },
+        {
+          "text": "Consider this your permission to play.",
+          "size": "10px",
+          "color": "rgb(148, 149, 136)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "Headphones on. World off.",
+          "size": "10px",
+          "color": "rgb(148, 149, 136)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "02 / FIND YOUR STARTING POINT",
+          "size": "9px",
+          "color": "rgb(125, 126, 115)",
+          "tag": "SPAN",
+          "cls": "eyebrow section-number"
+        },
+        {
+          "text": "R—01",
+          "size": "10px",
+          "color": "rgb(113, 59, 34)",
+          "tag": "SPAN",
+          "cls": "art-index"
+        },
+        {
+          "text": "WARM / ORGANIC / UNHURRIED",
+          "size": "7px",
+          "color": "rgb(113, 59, 34)",
+          "tag": "SPAN",
+          "cls": "art-type"
+        },
+        {
+          "text": "92 BPM",
+          "size": "8px",
+          "color": "rgb(146, 148, 134)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "Soft keys. Dusty drums. Nowhere to be.",
+          "size": "11px",
+          "color": "rgb(131, 133, 119)",
+          "tag": "P",
+          "cls": ""
+        },
+        {
+          "text": "R—02",
+          "size": "10px",
+          "color": "rgb(210, 186, 221)",
+          "tag": "SPAN",
+          "cls": "art-index"
+        },
+        {
+          "text": "DEEP / ELECTRONIC / RESTLESS",
+          "size": "7px",
+          "color": "rgb(210, 186, 221)",
+          "tag": "SPAN",
+          "cls": "art-type"
+        },
+        {
+          "text": "124 BPM",
+          "size": "8px",
+          "color": "rgb(146, 148, 134)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "Low lights. Deep bass. One more track.",
+          "size": "11px",
+          "color": "rgb(131, 133, 119)",
+          "tag": "P",
+          "cls": ""
+        },
+        {
+          "text": "R—03",
+          "size": "10px",
+          "color": "rgb(47, 102, 99)",
+          "tag": "SPAN",
+          "cls": "art-index"
+        },
+        {
+          "text": "AIRY / AMBIENT / WIDE OPEN",
+          "size": "7px",
+          "color": "rgb(47, 102, 99)",
+          "tag": "SPAN",
+          "cls": "art-type"
+        },
+        {
+          "text": "76 BPM",
+          "size": "8px",
+          "color": "rgb(146, 148, 134)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "Long horizons. Floating melodies. Space.",
+          "size": "11px",
+          "color": "rgb(131, 133, 119)",
+          "tag": "P",
+          "cls": ""
+        },
+        {
+          "text": "03 / LESS BETWEEN YOU AND THE MUSIC",
+          "size": "9px",
+          "color": "rgb(125, 126, 115)",
+          "tag": "SPAN",
+          "cls": "eyebrow section-number"
+        },
+        {
+          "text": "01",
+          "size": "9px",
+          "color": "rgb(161, 163, 147)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "02",
+          "size": "9px",
+          "color": "rgb(161, 163, 147)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "03",
+          "size": "9px",
+          "color": "rgb(161, 163, 147)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "LESS SCROLLING. MORE CREATING.",
+          "size": "9px",
+          "color": "rgb(112, 43, 25)",
+          "tag": "SPAN",
+          "cls": "eyebrow"
+        },
+        {
+          "text": "Free to play. Yours to explore.",
+          "size": "10px",
+          "color": "rgb(125, 48, 27)",
+          "tag": "P",
+          "cls": ""
+        },
+        {
+          "text": "Made for the joy of making.",
+          "size": "10px",
+          "color": "rgb(140, 142, 129)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "© 2026 Resonance",
+          "size": "10px",
+          "color": "rgb(140, 142, 129)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "Back to top ↑",
+          "size": "10px",
+          "color": "rgb(91, 98, 81)",
+          "tag": "A",
+          "cls": ""
+        }
+      ],
+      "headings": [
+        {
+          "text": "Less friction.More feeling.",
+          "size": "108px"
+        },
+        {
+          "text": "A good place to get lost.",
+          "size": "32px"
+        },
+        {
+          "text": "Different moods. Same you.",
+          "size": "32px"
+        },
+        {
+          "text": "Sunday morning",
+          "size": "18px"
+        },
+        {
+          "text": "After hours",
+          "size": "18px"
+        },
+        {
+          "text": "Open water",
+          "size": "18px"
+        },
+        {
+          "text": "You don’t needto know the rulesto find your rhythm.",
+          "size": "48px"
+        },
+        {
+          "text": "Open a tab. Open a possibility.",
+          "size": "15px"
+        },
+        {
+          "text": "Let your ears lead.",
+          "size": "15px"
+        },
+        {
+          "text": "Make something only you could.",
+          "size": "15px"
+        },
+        {
+          "text": "The next soundis yours.",
+          "size": "76px"
+        }
+      ]
+    },
+    "mobile": {
+      "width": 390,
+      "scrollWidth": 390,
+      "smallText": [
+        {
+          "text": "Start creating",
+          "size": "11px",
+          "color": "rgb(41, 42, 36)",
+          "tag": "A",
+          "cls": "nav-cta"
+        },
+        {
+          "text": "A little curiosity. A whole new sound.",
+          "size": "8px",
+          "color": "rgb(41, 42, 36)",
+          "tag": "P",
+          "cls": "eyebrow"
+        },
+        {
+          "text": "No downloads. No wrong notes.",
+          "size": "8px",
+          "color": "rgb(130, 131, 119)",
+          "tag": "SPAN",
+          "cls": "no-setup"
+        },
+        {
+          "text": "FIG. 01 — SOUND, TAKING SHAPE",
+          "size": "7px",
+          "color": "rgb(139, 140, 128)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "● INTERACTIVE",
+          "size": "7px",
+          "color": "rgb(219, 96, 57)",
+          "tag": "SPAN",
+          "cls": "sound-state"
+        },
+        {
+          "text": "TOUCH THE SOUND. FEEL SOMETHING.",
+          "size": "7px",
+          "color": "rgb(139, 140, 128)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "01 / THE PLAYGROUND",
+          "size": "7px",
+          "color": "rgb(125, 126, 115)",
+          "tag": "SPAN",
+          "cls": "eyebrow section-number"
+        },
+        {
+          "text": "PLAY / 001",
+          "size": "7px",
+          "color": "rgb(133, 133, 121)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "SOUND PALETTE",
+          "size": "7px",
+          "color": "rgb(133, 133, 120)",
+          "tag": "LABEL",
+          "cls": ""
+        },
+        {
+          "text": "TEMPO",
+          "size": "7px",
+          "color": "rgb(133, 133, 120)",
+          "tag": "LABEL",
+          "cls": ""
+        },
+        {
+          "text": "BPM",
+          "size": "7px",
+          "color": "rgb(131, 133, 120)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "VOLUME",
+          "size": "7px",
+          "color": "rgb(133, 133, 120)",
+          "tag": "LABEL",
+          "cls": ""
+        },
+        {
+          "text": "◖))",
+          "size": "11px",
+          "color": "rgb(41, 42, 36)",
+          "tag": "BUTTON",
+          "cls": ""
+        },
+        {
+          "text": "READY WHEN YOU ARE",
+          "size": "7px",
+          "color": "rgb(164, 172, 160)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "01 : 01",
+          "size": "7px",
+          "color": "rgb(164, 172, 160)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "01",
+          "size": "8px",
+          "color": "rgb(183, 191, 175)",
+          "tag": "SPAN",
+          "cls": "downbeat"
+        },
+        {
+          "text": "02",
+          "size": "8px",
+          "color": "rgb(110, 122, 107)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "03",
+          "size": "8px",
+          "color": "rgb(110, 122, 107)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "04",
+          "size": "8px",
+          "color": "rgb(110, 122, 107)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "05",
+          "size": "8px",
+          "color": "rgb(183, 191, 175)",
+          "tag": "SPAN",
+          "cls": "downbeat"
+        },
+        {
+          "text": "06",
+          "size": "8px",
+          "color": "rgb(110, 122, 107)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "07",
+          "size": "8px",
+          "color": "rgb(110, 122, 107)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "08",
+          "size": "8px",
+          "color": "rgb(110, 122, 107)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "Kick",
+          "size": "9px",
+          "color": "rgb(199, 203, 191)",
+          "tag": "BUTTON",
+          "cls": "track-label"
+        },
+        {
+          "text": "Snare",
+          "size": "9px",
+          "color": "rgb(199, 203, 191)",
+          "tag": "BUTTON",
+          "cls": "track-label"
+        },
+        {
+          "text": "Hi-hat",
+          "size": "9px",
+          "color": "rgb(199, 203, 191)",
+          "tag": "BUTTON",
+          "cls": "track-label"
+        },
+        {
+          "text": "Chords",
+          "size": "9px",
+          "color": "rgb(199, 203, 191)",
+          "tag": "BUTTON",
+          "cls": "track-label"
+        },
+        {
+          "text": "TAP A STEP TO MAKE IT YOURS",
+          "size": "6px",
+          "color": "rgb(164, 172, 160)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "1–8",
+          "size": "8px",
+          "color": "rgb(229, 233, 217)",
+          "tag": "BUTTON",
+          "cls": "selected"
+        },
+        {
+          "text": "9–16",
+          "size": "8px",
+          "color": "rgb(167, 175, 160)",
+          "tag": "BUTTON",
+          "cls": ""
+        },
+        {
+          "text": "Clear pattern",
+          "size": "8px",
+          "color": "rgb(167, 175, 160)",
+          "tag": "BUTTON",
+          "cls": ""
+        },
+        {
+          "text": "ADD A LITTLE MELODY",
+          "size": "7px",
+          "color": "rgb(128, 129, 116)",
+          "tag": "SPAN",
+          "cls": "eyebrow"
+        },
+        {
+          "text": "Go on. Play by feeling.",
+          "size": "10px",
+          "color": "rgb(41, 42, 36)",
+          "tag": "P",
+          "cls": ""
+        },
+        {
+          "text": "C",
+          "size": "10px",
+          "color": "rgb(98, 102, 88)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "D",
+          "size": "10px",
+          "color": "rgb(98, 102, 88)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "E",
+          "size": "10px",
+          "color": "rgb(98, 102, 88)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "F",
+          "size": "10px",
+          "color": "rgb(98, 102, 88)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "G",
+          "size": "10px",
+          "color": "rgb(98, 102, 88)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "A",
+          "size": "10px",
+          "color": "rgb(98, 102, 88)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "B",
+          "size": "10px",
+          "color": "rgb(98, 102, 88)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "C",
+          "size": "10px",
+          "color": "rgb(98, 102, 88)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "IN THE KEY OF MADE FOR EXPLORING",
+          "size": "0px",
+          "color": "rgb(138, 139, 124)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "C MAJOR",
+          "size": "8px",
+          "color": "rgb(87, 95, 76)",
+          "tag": "STRONG",
+          "cls": ""
+        },
+        {
+          "text": "Keep this loop",
+          "size": "9px",
+          "color": "rgb(138, 139, 124)",
+          "tag": "BUTTON",
+          "cls": ""
+        },
+        {
+          "text": "Consider this your permission to play.",
+          "size": "8px",
+          "color": "rgb(148, 149, 136)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "Headphones on. World off.",
+          "size": "8px",
+          "color": "rgb(148, 149, 136)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "02 / FIND YOUR STARTING POINT",
+          "size": "7px",
+          "color": "rgb(125, 126, 115)",
+          "tag": "SPAN",
+          "cls": "eyebrow section-number"
+        },
+        {
+          "text": "R—01",
+          "size": "10px",
+          "color": "rgb(113, 59, 34)",
+          "tag": "SPAN",
+          "cls": "art-index"
+        },
+        {
+          "text": "WARM / ORGANIC / UNHURRIED",
+          "size": "7px",
+          "color": "rgb(113, 59, 34)",
+          "tag": "SPAN",
+          "cls": "art-type"
+        },
+        {
+          "text": "92 BPM",
+          "size": "8px",
+          "color": "rgb(146, 148, 134)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "Soft keys. Dusty drums. Nowhere to be.",
+          "size": "11px",
+          "color": "rgb(131, 133, 119)",
+          "tag": "P",
+          "cls": ""
+        },
+        {
+          "text": "R—02",
+          "size": "10px",
+          "color": "rgb(210, 186, 221)",
+          "tag": "SPAN",
+          "cls": "art-index"
+        },
+        {
+          "text": "DEEP / ELECTRONIC / RESTLESS",
+          "size": "7px",
+          "color": "rgb(210, 186, 221)",
+          "tag": "SPAN",
+          "cls": "art-type"
+        },
+        {
+          "text": "124 BPM",
+          "size": "8px",
+          "color": "rgb(146, 148, 134)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "Low lights. Deep bass. One more track.",
+          "size": "11px",
+          "color": "rgb(131, 133, 119)",
+          "tag": "P",
+          "cls": ""
+        },
+        {
+          "text": "R—03",
+          "size": "10px",
+          "color": "rgb(47, 102, 99)",
+          "tag": "SPAN",
+          "cls": "art-index"
+        },
+        {
+          "text": "AIRY / AMBIENT / WIDE OPEN",
+          "size": "7px",
+          "color": "rgb(47, 102, 99)",
+          "tag": "SPAN",
+          "cls": "art-type"
+        },
+        {
+          "text": "76 BPM",
+          "size": "8px",
+          "color": "rgb(146, 148, 134)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "Long horizons. Floating melodies. Space.",
+          "size": "11px",
+          "color": "rgb(131, 133, 119)",
+          "tag": "P",
+          "cls": ""
+        },
+        {
+          "text": "03 / LESS BETWEEN YOU AND THE MUSIC",
+          "size": "7px",
+          "color": "rgb(125, 126, 115)",
+          "tag": "SPAN",
+          "cls": "eyebrow section-number"
+        },
+        {
+          "text": "01",
+          "size": "9px",
+          "color": "rgb(161, 163, 147)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "No installation, no complicated setup. Your next idea is just a play button away.",
+          "size": "11px",
+          "color": "rgb(130, 133, 119)",
+          "tag": "P",
+          "cls": ""
+        },
+        {
+          "text": "02",
+          "size": "9px",
+          "color": "rgb(161, 163, 147)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "Tap a rhythm. Layer a melody. Everything here is designed to make experimenting feel natur",
+          "size": "11px",
+          "color": "rgb(130, 133, 119)",
+          "tag": "P",
+          "cls": ""
+        },
+        {
+          "text": "03",
+          "size": "9px",
+          "color": "rgb(161, 163, 147)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "Start with a sound you love. Take it somewhere new. Download your loop and keep going.",
+          "size": "11px",
+          "color": "rgb(130, 133, 119)",
+          "tag": "P",
+          "cls": ""
+        },
+        {
+          "text": "LESS SCROLLING. MORE CREATING.",
+          "size": "7px",
+          "color": "rgb(112, 43, 25)",
+          "tag": "SPAN",
+          "cls": "eyebrow"
+        },
+        {
+          "text": "Free to play. Yours to explore.",
+          "size": "9px",
+          "color": "rgb(125, 48, 27)",
+          "tag": "P",
+          "cls": ""
+        },
+        {
+          "text": "®",
+          "size": "10px",
+          "color": "rgb(41, 42, 36)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "Made for the joy of making.",
+          "size": "9px",
+          "color": "rgb(140, 142, 129)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "© 2026 Resonance",
+          "size": "9px",
+          "color": "rgb(140, 142, 129)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "Back to top ↑",
+          "size": "9px",
+          "color": "rgb(91, 98, 81)",
+          "tag": "A",
+          "cls": ""
+        }
+      ],
+      "headings": [
+        {
+          "text": "Less friction.More feeling.",
+          "size": "48px"
+        },
+        {
+          "text": "A good place to get lost.",
+          "size": "25px"
+        },
+        {
+          "text": "Different moods. Same you.",
+          "size": "25px"
+        },
+        {
+          "text": "Sunday morning",
+          "size": "19px"
+        },
+        {
+          "text": "After hours",
+          "size": "19px"
+        },
+        {
+          "text": "Open water",
+          "size": "19px"
+        },
+        {
+          "text": "You don’t needto know the rulesto find your rhythm.",
+          "size": "40px"
+        },
+        {
+          "text": "Open a tab. Open a possibility.",
+          "size": "14px"
+        },
+        {
+          "text": "Let your ears lead.",
+          "size": "14px"
+        },
+        {
+          "text": "Make something only you could.",
+          "size": "14px"
+        },
+        {
+          "text": "The next soundis yours.",
+          "size": "60px"
+        }
+      ]
+    }
+  },
+  {
+    "name": "team",
+    "port": 5273,
+    "errors": [],
+    "checks": [
+      {
+        "viewport": "desktop",
+        "action": "start playback and edit first step",
+        "playLabel": "Pause loop",
+        "stepBefore": "true",
+        "stepAfter": "false"
+      },
+      {
+        "viewport": "desktop",
+        "action": "pause",
+        "playLabel": "Play loop"
+      },
+      {
+        "viewport": "mobile",
+        "action": "start playback and edit first step",
+        "playLabel": "Pause loop",
+        "stepBefore": "true",
+        "stepAfter": "false"
+      },
+      {
+        "viewport": "mobile",
+        "action": "pause",
+        "playLabel": "Play loop"
+      }
+    ],
+    "desktop": {
+      "width": 1440,
+      "scrollWidth": 1440,
+      "smallText": [
+        {
+          "text": "®",
+          "size": "11px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "MUSIC STARTS WITH A FEELING",
+          "size": "10px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "DIV",
+          "cls": "eyebrow"
+        },
+        {
+          "text": "▶",
+          "size": "11px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "YOUR FIRST TRACK IS ALREADY HERE. MAKE IT YOURS.",
+          "size": "9px",
+          "color": "rgb(123, 124, 115)",
+          "tag": "SPAN",
+          "cls": "micro"
+        },
+        {
+          "text": "A little better with headphones.",
+          "size": "11px",
+          "color": "rgb(122, 125, 112)",
+          "tag": "DIV",
+          "cls": "sound-note"
+        },
+        {
+          "text": "THE ORBIT / 001",
+          "size": "9px",
+          "color": "rgb(111, 118, 100)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "READY WHEN YOU ARE",
+          "size": "9px",
+          "color": "rgb(111, 118, 100)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "01",
+          "size": "8px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "text",
+          "cls": ""
+        },
+        {
+          "text": "02",
+          "size": "8px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "text",
+          "cls": ""
+        },
+        {
+          "text": "03",
+          "size": "8px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "text",
+          "cls": ""
+        },
+        {
+          "text": "04",
+          "size": "8px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "text",
+          "cls": ""
+        },
+        {
+          "text": "05",
+          "size": "8px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "text",
+          "cls": ""
+        },
+        {
+          "text": "06",
+          "size": "8px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "text",
+          "cls": ""
+        },
+        {
+          "text": "07",
+          "size": "8px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "text",
+          "cls": ""
+        },
+        {
+          "text": "08",
+          "size": "8px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "text",
+          "cls": ""
+        },
+        {
+          "text": "09",
+          "size": "8px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "text",
+          "cls": ""
+        },
+        {
+          "text": "10",
+          "size": "8px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "text",
+          "cls": ""
+        },
+        {
+          "text": "11",
+          "size": "8px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "text",
+          "cls": ""
+        },
+        {
+          "text": "12",
+          "size": "8px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "text",
+          "cls": ""
+        },
+        {
+          "text": "13",
+          "size": "8px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "text",
+          "cls": ""
+        },
+        {
+          "text": "14",
+          "size": "8px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "text",
+          "cls": ""
+        },
+        {
+          "text": "15",
+          "size": "8px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "text",
+          "cls": ""
+        },
+        {
+          "text": "16",
+          "size": "8px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "text",
+          "cls": ""
+        },
+        {
+          "text": "GIVE IT A SPIN",
+          "size": "8px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "TAP A SEGMENT. MAKE IT YOURS.",
+          "size": "9px",
+          "color": "rgb(111, 118, 100)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "01 / 16",
+          "size": "9px",
+          "color": "rgb(111, 118, 100)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "START SOMEWHERE",
+          "size": "9px",
+          "color": "rgb(110, 115, 101)",
+          "tag": "SPAN",
+          "cls": "small"
+        },
+        {
+          "text": "WARM · UNHURRIED",
+          "size": "8px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "SMALL",
+          "cls": ""
+        },
+        {
+          "text": "DEEP · A LITTLE RESTLESS",
+          "size": "8px",
+          "color": "rgb(115, 118, 104)",
+          "tag": "SMALL",
+          "cls": ""
+        },
+        {
+          "text": "AIRY · SOMEWHERE ELSE",
+          "size": "8px",
+          "color": "rgb(115, 118, 104)",
+          "tag": "SMALL",
+          "cls": ""
+        },
+        {
+          "text": "INNER → OUTER",
+          "size": "8px",
+          "color": "rgb(110, 115, 101)",
+          "tag": "SPAN",
+          "cls": "small"
+        },
+        {
+          "text": "BPM",
+          "size": "9px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "TEMPO",
+          "size": "8px",
+          "color": "rgb(110, 115, 101)",
+          "tag": "SPAN",
+          "cls": "small"
+        },
+        {
+          "text": "NO DOWNLOADS. NO SIGN-UPS. JUST PLAY.",
+          "size": "9px",
+          "color": "rgb(120, 124, 108)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "THERE’S MORE TO THE FEELING",
+          "size": "9px",
+          "color": "rgb(120, 124, 108)",
+          "tag": "A",
+          "cls": ""
+        },
+        {
+          "text": "A SMALL STUDIO. A BIG OPEN DOOR.",
+          "size": "10px",
+          "color": "rgb(193, 198, 179)",
+          "tag": "SPAN",
+          "cls": "section-label"
+        },
+        {
+          "text": "A LITTLE MOVEMENT. A WHOLE NEW FEELING.",
+          "size": "8px",
+          "color": "rgb(165, 174, 150)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "01 / FIND IT",
+          "size": "9px",
+          "color": "rgb(190, 199, 172)",
+          "tag": "SPAN",
+          "cls": "step-number"
+        },
+        {
+          "text": "02 / SHAPE IT",
+          "size": "9px",
+          "color": "rgb(190, 199, 172)",
+          "tag": "SPAN",
+          "cls": "step-number"
+        },
+        {
+          "text": "03 / KEEP IT",
+          "size": "9px",
+          "color": "rgb(190, 199, 172)",
+          "tag": "SPAN",
+          "cls": "step-number"
+        },
+        {
+          "text": "YOU HAD IT IN YOU ALL ALONG.",
+          "size": "9px",
+          "color": "rgb(110, 115, 101)",
+          "tag": "SPAN",
+          "cls": "small"
+        },
+        {
+          "text": "®",
+          "size": "8px",
+          "color": "rgb(133, 135, 123)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "Made of sound. Shaped by you.",
+          "size": "9px",
+          "color": "rgb(133, 135, 123)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "© 2026 RESONANCE",
+          "size": "9px",
+          "color": "rgb(133, 135, 123)",
+          "tag": "SPAN",
+          "cls": ""
+        }
+      ],
+      "headings": [
+        {
+          "text": "Find yourfrequency.",
+          "size": "112.32px"
+        },
+        {
+          "text": "Less overthinking.More making.",
+          "size": "63.36px"
+        },
+        {
+          "text": "Start with a feeling.",
+          "size": "19px"
+        },
+        {
+          "text": "Follow your curiosity.",
+          "size": "19px"
+        },
+        {
+          "text": "Take a little with you.",
+          "size": "19px"
+        },
+        {
+          "text": "Go on. Make a little noise.",
+          "size": "53.28px"
+        }
+      ]
+    },
+    "mobile": {
+      "width": 390,
+      "scrollWidth": 390,
+      "smallText": [
+        {
+          "text": "®",
+          "size": "11px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "Enter the playground",
+          "size": "10px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "BUTTON",
+          "cls": "nav-start"
+        },
+        {
+          "text": "MUSIC STARTS WITH A FEELING",
+          "size": "8px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "DIV",
+          "cls": "eyebrow"
+        },
+        {
+          "text": "▶",
+          "size": "11px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "YOUR FIRST TRACK IS ALREADY HERE. MAKE IT YOURS.",
+          "size": "8px",
+          "color": "rgb(123, 124, 115)",
+          "tag": "SPAN",
+          "cls": "micro"
+        },
+        {
+          "text": "A little better with headphones.",
+          "size": "10px",
+          "color": "rgb(122, 125, 112)",
+          "tag": "DIV",
+          "cls": "sound-note"
+        },
+        {
+          "text": "THE ORBIT / 001",
+          "size": "8px",
+          "color": "rgb(111, 118, 100)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "READY WHEN YOU ARE",
+          "size": "8px",
+          "color": "rgb(111, 118, 100)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "01",
+          "size": "8px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "text",
+          "cls": ""
+        },
+        {
+          "text": "02",
+          "size": "8px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "text",
+          "cls": ""
+        },
+        {
+          "text": "03",
+          "size": "8px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "text",
+          "cls": ""
+        },
+        {
+          "text": "04",
+          "size": "8px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "text",
+          "cls": ""
+        },
+        {
+          "text": "05",
+          "size": "8px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "text",
+          "cls": ""
+        },
+        {
+          "text": "06",
+          "size": "8px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "text",
+          "cls": ""
+        },
+        {
+          "text": "07",
+          "size": "8px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "text",
+          "cls": ""
+        },
+        {
+          "text": "08",
+          "size": "8px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "text",
+          "cls": ""
+        },
+        {
+          "text": "09",
+          "size": "8px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "text",
+          "cls": ""
+        },
+        {
+          "text": "10",
+          "size": "8px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "text",
+          "cls": ""
+        },
+        {
+          "text": "11",
+          "size": "8px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "text",
+          "cls": ""
+        },
+        {
+          "text": "12",
+          "size": "8px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "text",
+          "cls": ""
+        },
+        {
+          "text": "13",
+          "size": "8px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "text",
+          "cls": ""
+        },
+        {
+          "text": "14",
+          "size": "8px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "text",
+          "cls": ""
+        },
+        {
+          "text": "15",
+          "size": "8px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "text",
+          "cls": ""
+        },
+        {
+          "text": "16",
+          "size": "8px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "text",
+          "cls": ""
+        },
+        {
+          "text": "GIVE IT A SPIN",
+          "size": "7px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "TAP A SEGMENT. MAKE IT YOURS.",
+          "size": "8px",
+          "color": "rgb(111, 118, 100)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "01 / 16",
+          "size": "8px",
+          "color": "rgb(111, 118, 100)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "START SOMEWHERE",
+          "size": "9px",
+          "color": "rgb(110, 115, 101)",
+          "tag": "SPAN",
+          "cls": "small"
+        },
+        {
+          "text": "WARM · UNHURRIED",
+          "size": "8px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "SMALL",
+          "cls": ""
+        },
+        {
+          "text": "DEEP · A LITTLE RESTLESS",
+          "size": "8px",
+          "color": "rgb(115, 118, 104)",
+          "tag": "SMALL",
+          "cls": ""
+        },
+        {
+          "text": "AIRY · SOMEWHERE ELSE",
+          "size": "8px",
+          "color": "rgb(115, 118, 104)",
+          "tag": "SMALL",
+          "cls": ""
+        },
+        {
+          "text": "INNER → OUTER",
+          "size": "7px",
+          "color": "rgb(110, 115, 101)",
+          "tag": "SPAN",
+          "cls": "small"
+        },
+        {
+          "text": "Bass",
+          "size": "11px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "BUTTON",
+          "cls": ""
+        },
+        {
+          "text": "Drums",
+          "size": "11px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "BUTTON",
+          "cls": ""
+        },
+        {
+          "text": "Keys",
+          "size": "11px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "BUTTON",
+          "cls": ""
+        },
+        {
+          "text": "Bells",
+          "size": "11px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "BUTTON",
+          "cls": ""
+        },
+        {
+          "text": "BPM",
+          "size": "9px",
+          "color": "rgb(38, 42, 36)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "TEMPO",
+          "size": "9px",
+          "color": "rgb(110, 115, 101)",
+          "tag": "SPAN",
+          "cls": "small"
+        },
+        {
+          "text": "NO DOWNLOADS. NO SIGN-UPS. JUST PLAY.",
+          "size": "7px",
+          "color": "rgb(120, 124, 108)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "THERE’S MORE TO THE FEELING",
+          "size": "7px",
+          "color": "rgb(120, 124, 108)",
+          "tag": "A",
+          "cls": ""
+        },
+        {
+          "text": "A SMALL STUDIO. A BIG OPEN DOOR.",
+          "size": "8px",
+          "color": "rgb(193, 198, 179)",
+          "tag": "SPAN",
+          "cls": "section-label"
+        },
+        {
+          "text": "A LITTLE MOVEMENT. A WHOLE NEW FEELING.",
+          "size": "6px",
+          "color": "rgb(165, 174, 150)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "01 / FIND IT",
+          "size": "9px",
+          "color": "rgb(190, 199, 172)",
+          "tag": "SPAN",
+          "cls": "step-number"
+        },
+        {
+          "text": "02 / SHAPE IT",
+          "size": "9px",
+          "color": "rgb(190, 199, 172)",
+          "tag": "SPAN",
+          "cls": "step-number"
+        },
+        {
+          "text": "03 / KEEP IT",
+          "size": "9px",
+          "color": "rgb(190, 199, 172)",
+          "tag": "SPAN",
+          "cls": "step-number"
+        },
+        {
+          "text": "YOU HAD IT IN YOU ALL ALONG.",
+          "size": "7px",
+          "color": "rgb(110, 115, 101)",
+          "tag": "SPAN",
+          "cls": "small"
+        },
+        {
+          "text": "®",
+          "size": "7px",
+          "color": "rgb(133, 135, 123)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "Made of sound. Shaped by you.",
+          "size": "8px",
+          "color": "rgb(133, 135, 123)",
+          "tag": "SPAN",
+          "cls": ""
+        },
+        {
+          "text": "© 2026 RESONANCE",
+          "size": "7px",
+          "color": "rgb(133, 135, 123)",
+          "tag": "SPAN",
+          "cls": ""
+        }
+      ],
+      "headings": [
+        {
+          "text": "Find yourfrequency.",
+          "size": "67.86px"
+        },
+        {
+          "text": "Less overthinking.More making.",
+          "size": "43px"
+        },
+        {
+          "text": "Start with a feeling.",
+          "size": "19px"
+        },
+        {
+          "text": "Follow your curiosity.",
+          "size": "19px"
+        },
+        {
+          "text": "Take a little with you.",
+          "size": "19px"
+        },
+        {
+          "text": "Go on. Make a little noise.",
+          "size": "33px"
+        }
+      ]
+    }
+  }
+]

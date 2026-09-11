@@ -1,0 +1,94 @@
+[
+  {
+    "name": "design-1-noskill",
+    "errors": [],
+    "postRequests": [],
+    "finishes": [
+      {
+        "requested": "chalk",
+        "selected": "chalk"
+      },
+      {
+        "requested": "graphite",
+        "selected": "graphite"
+      },
+      {
+        "requested": "moss",
+        "selected": "moss"
+      }
+    ],
+    "retainedFinish": "graphite",
+    "invalidFields": 2,
+    "success": true,
+    "escapeClosed": true,
+    "mobile": {
+      "width": 390,
+      "scrollWidth": 390
+    },
+    "mobileDialog": true
+  },
+  {
+    "name": "design-1-skill",
+    "errors": [],
+    "postRequests": [],
+    "finishes": [
+      {
+        "requested": "chalk",
+        "selected": "chalk"
+      },
+      {
+        "requested": "graphite",
+        "selected": "graphite"
+      },
+      {
+        "requested": "moss",
+        "selected": "moss"
+      }
+    ],
+    "retainedFinish": "graphite",
+    "invalidFields": 2,
+    "success": true,
+    "escapeClosed": true,
+    "mobile": {
+      "width": 390,
+      "scrollWidth": 390
+    },
+    "mobileDialog": true
+  },
+  {
+    "name": "design-2-noskill",
+    "errors": [],
+    "postRequests": [],
+    "initialHeight": "88",
+    "editedHeight": "96",
+    "pausedAt": "translate(280.55 231.42)",
+    "pauseHeld": true,
+    "coins": "5",
+    "completed": true,
+    "resetPosition": "translate(108.00 332.00)",
+    "retainedHeight": "96",
+    "mobile": {
+      "width": 390,
+      "scrollWidth": 390
+    },
+    "mobileEdited": "96"
+  },
+  {
+    "name": "design-2-skill",
+    "errors": [],
+    "postRequests": [],
+    "initialPlatform": "Platform 02, movable. Position X 496, Y 248. Use arrow keys to move.",
+    "editedPlatform": "Platform 02, movable. Position X 496, Y 240. Use arrow keys to move.",
+    "pausedAt": "267.69",
+    "pauseHeld": true,
+    "coins": 3,
+    "completed": true,
+    "resetPosition": "132.00",
+    "retainedPlatform": "Platform 02, movable. Position X 496, Y 240. Use arrow keys to move.",
+    "mobile": {
+      "width": 390,
+      "scrollWidth": 390
+    },
+    "mobileEdited": "Platform 02, movable. Position X 496, Y 240. Use arrow keys to move."
+  }
+]

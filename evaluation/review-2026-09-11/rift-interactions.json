@@ -1,0 +1,842 @@
+[
+  {
+    "name": "design-3-noskill",
+    "url": "http://127.0.0.1:5193/",
+    "initial": {
+      "renderer": "ready",
+      "paused": false,
+      "alternate": false,
+      "entering": false,
+      "section": "home",
+      "worlds": [
+        {
+          "mode": 0,
+          "rotation": [
+            0,
+            0
+          ],
+          "pointer": [
+            0,
+            0
+          ],
+          "dragging": false
+        },
+        {
+          "mode": 0,
+          "rotation": [
+            0,
+            0
+          ],
+          "pointer": [
+            0,
+            0
+          ],
+          "dragging": false
+        },
+        {
+          "mode": 0,
+          "rotation": [
+            0,
+            0
+          ],
+          "pointer": [
+            0,
+            0
+          ],
+          "dragging": false
+        },
+        {
+          "mode": 0,
+          "rotation": [
+            0,
+            0
+          ],
+          "pointer": [
+            0,
+            0
+          ],
+          "dragging": false
+        }
+      ],
+      "drawCalls": 4,
+      "geometries": 16,
+      "textures": 4
+    },
+    "dragged": {
+      "renderer": "ready",
+      "paused": false,
+      "alternate": false,
+      "entering": false,
+      "section": "home",
+      "worlds": [
+        {
+          "mode": 0,
+          "rotation": [
+            1.2640511474609373,
+            0.34500000000000003
+          ],
+          "pointer": [
+            0.4399999643074697,
+            -0.10000000000000009
+          ],
+          "dragging": false
+        },
+        {
+          "mode": 0,
+          "rotation": [
+            0,
+            0
+          ],
+          "pointer": [
+            0,
+            0
+          ],
+          "dragging": false
+        },
+        {
+          "mode": 0,
+          "rotation": [
+            0,
+            0
+          ],
+          "pointer": [
+            0,
+            0
+          ],
+          "dragging": false
+        },
+        {
+          "mode": 0,
+          "rotation": [
+            0,
+            0
+          ],
+          "pointer": [
+            0,
+            0
+          ],
+          "dragging": false
+        }
+      ],
+      "drawCalls": 4,
+      "geometries": 16,
+      "textures": 4
+    },
+    "entered": {
+      "y": 900,
+      "active": "particle-stage",
+      "diagnostics": {
+        "renderer": "ready",
+        "paused": false,
+        "alternate": false,
+        "entering": false,
+        "section": "worlds",
+        "worlds": [
+          {
+            "mode": 0,
+            "rotation": [
+              0,
+              0
+            ],
+            "pointer": [
+              0,
+              0
+            ],
+            "dragging": false
+          },
+          {
+            "mode": 0,
+            "rotation": [
+              0,
+              0
+            ],
+            "pointer": [
+              0,
+              0
+            ],
+            "dragging": false
+          },
+          {
+            "mode": 0,
+            "rotation": [
+              0,
+              0
+            ],
+            "pointer": [
+              0,
+              0
+            ],
+            "dragging": false
+          },
+          {
+            "mode": 0,
+            "rotation": [
+              0,
+              0
+            ],
+            "pointer": [
+              0,
+              0
+            ],
+            "dragging": false
+          }
+        ],
+        "drawCalls": 2,
+        "geometries": 18,
+        "textures": 4
+      }
+    },
+    "worlds": [
+      {
+        "section": "#worlds",
+        "before": {
+          "renderer": "ready",
+          "paused": false,
+          "alternate": false,
+          "entering": false,
+          "section": "worlds",
+          "worlds": [
+            {
+              "mode": 0,
+              "rotation": [
+                0,
+                0
+              ],
+              "pointer": [
+                0,
+                0
+              ],
+              "dragging": false
+            },
+            {
+              "mode": 0,
+              "rotation": [
+                0,
+                0
+              ],
+              "pointer": [
+                0,
+                0
+              ],
+              "dragging": false
+            },
+            {
+              "mode": 0,
+              "rotation": [
+                0,
+                0
+              ],
+              "pointer": [
+                0,
+                0
+              ],
+              "dragging": false
+            },
+            {
+              "mode": 0,
+              "rotation": [
+                0,
+                0
+              ],
+              "pointer": [
+                0,
+                0
+              ],
+              "dragging": false
+            }
+          ],
+          "drawCalls": 2,
+          "geometries": 18,
+          "textures": 4
+        },
+        "after": {
+          "renderer": "ready",
+          "paused": false,
+          "alternate": false,
+          "entering": false,
+          "section": "worlds",
+          "worlds": [
+            {
+              "mode": 0,
+              "rotation": [
+                0,
+                0
+              ],
+              "pointer": [
+                0,
+                0
+              ],
+              "dragging": false
+            },
+            {
+              "mode": 1,
+              "rotation": [
+                0,
+                0
+              ],
+              "pointer": [
+                0,
+                0
+              ],
+              "dragging": false
+            },
+            {
+              "mode": 0,
+              "rotation": [
+                0,
+                0
+              ],
+              "pointer": [
+                0,
+                0
+              ],
+              "dragging": false
+            },
+            {
+              "mode": 0,
+              "rotation": [
+                0,
+                0
+              ],
+              "pointer": [
+                0,
+                0
+              ],
+              "dragging": false
+            }
+          ],
+          "drawCalls": 2,
+          "geometries": 18,
+          "textures": 4
+        }
+      },
+      {
+        "section": "#world-2",
+        "before": {
+          "renderer": "ready",
+          "paused": false,
+          "alternate": false,
+          "entering": false,
+          "section": "world-2",
+          "worlds": [
+            {
+              "mode": 0,
+              "rotation": [
+                0,
+                0
+              ],
+              "pointer": [
+                0,
+                0
+              ],
+              "dragging": false
+            },
+            {
+              "mode": 1,
+              "rotation": [
+                0,
+                0
+              ],
+              "pointer": [
+                0,
+                0
+              ],
+              "dragging": false
+            },
+            {
+              "mode": 0,
+              "rotation": [
+                0,
+                0
+              ],
+              "pointer": [
+                0,
+                0
+              ],
+              "dragging": false
+            },
+            {
+              "mode": 0,
+              "rotation": [
+                0,
+                0
+              ],
+              "pointer": [
+                0,
+                0
+              ],
+              "dragging": false
+            }
+          ],
+          "drawCalls": 1,
+          "geometries": 19,
+          "textures": 5
+        },
+        "after": {
+          "renderer": "ready",
+          "paused": false,
+          "alternate": false,
+          "entering": false,
+          "section": "world-2",
+          "worlds": [
+            {
+              "mode": 0,
+              "rotation": [
+                0,
+                0
+              ],
+              "pointer": [
+                0,
+                0
+              ],
+              "dragging": false
+            },
+            {
+              "mode": 1,
+              "rotation": [
+                0,
+                0
+              ],
+              "pointer": [
+                0,
+                0
+              ],
+              "dragging": false
+            },
+            {
+              "mode": 1,
+              "rotation": [
+                0,
+                0
+              ],
+              "pointer": [
+                0,
+                0
+              ],
+              "dragging": false
+            },
+            {
+              "mode": 0,
+              "rotation": [
+                0,
+                0
+              ],
+              "pointer": [
+                0,
+                0
+              ],
+              "dragging": false
+            }
+          ],
+          "drawCalls": 1,
+          "geometries": 19,
+          "textures": 5
+        }
+      },
+      {
+        "section": "#world-3",
+        "before": {
+          "renderer": "ready",
+          "paused": false,
+          "alternate": false,
+          "entering": false,
+          "section": "world-3",
+          "worlds": [
+            {
+              "mode": 0,
+              "rotation": [
+                0,
+                0
+              ],
+              "pointer": [
+                0,
+                0
+              ],
+              "dragging": false
+            },
+            {
+              "mode": 1,
+              "rotation": [
+                0,
+                0
+              ],
+              "pointer": [
+                0,
+                0
+              ],
+              "dragging": false
+            },
+            {
+              "mode": 1,
+              "rotation": [
+                0,
+                0
+              ],
+              "pointer": [
+                0,
+                0
+              ],
+              "dragging": false
+            },
+            {
+              "mode": 0,
+              "rotation": [
+                0,
+                0
+              ],
+              "pointer": [
+                0,
+                0
+              ],
+              "dragging": false
+            }
+          ],
+          "drawCalls": 2,
+          "geometries": 21,
+          "textures": 6
+        },
+        "after": {
+          "renderer": "ready",
+          "paused": false,
+          "alternate": false,
+          "entering": false,
+          "section": "world-3",
+          "worlds": [
+            {
+              "mode": 0,
+              "rotation": [
+                0,
+                0
+              ],
+              "pointer": [
+                0,
+                0
+              ],
+              "dragging": false
+            },
+            {
+              "mode": 1,
+              "rotation": [
+                0,
+                0
+              ],
+              "pointer": [
+                0,
+                0
+              ],
+              "dragging": false
+            },
+            {
+              "mode": 1,
+              "rotation": [
+                0,
+                0
+              ],
+              "pointer": [
+                0,
+                0
+              ],
+              "dragging": false
+            },
+            {
+              "mode": 1,
+              "rotation": [
+                0,
+                0
+              ],
+              "pointer": [
+                0,
+                0
+              ],
+              "dragging": false
+            }
+          ],
+          "drawCalls": 2,
+          "geometries": 21,
+          "textures": 6
+        }
+      }
+    ],
+    "secret": {
+      "renderer": "ready",
+      "paused": false,
+      "alternate": true,
+      "entering": false,
+      "section": "home",
+      "worlds": [
+        {
+          "mode": 0,
+          "rotation": [
+            0,
+            0
+          ],
+          "pointer": [
+            0,
+            0
+          ],
+          "dragging": false
+        },
+        {
+          "mode": 1,
+          "rotation": [
+            0,
+            0
+          ],
+          "pointer": [
+            0,
+            0
+          ],
+          "dragging": false
+        },
+        {
+          "mode": 1,
+          "rotation": [
+            0,
+            0
+          ],
+          "pointer": [
+            0,
+            0
+          ],
+          "dragging": false
+        },
+        {
+          "mode": 1,
+          "rotation": [
+            0,
+            0
+          ],
+          "pointer": [
+            0,
+            0
+          ],
+          "dragging": false
+        }
+      ],
+      "drawCalls": 4,
+      "geometries": 21,
+      "textures": 6
+    },
+    "contact": "OPEN FOR UNEXPECTED COLLABORATIONS\nYOU MADE IT TO THE OTHER SIDE.\nWHAT’S ON\nYOUR SIDE?\n\nGot a strange idea?\nWe’d like to meet it.\n\nhello@rift.studio\n↗\nCOPY EMAIL\n⧉\nRIFT\n®\nINDEPENDENT MINDS. UNEXPECTED WORLDS.\n© RIFT 2026\nSEND SOMEONE THROUGH\n↗\nBACK TO REALITY\n↑",
+    "layout": {
+      "width": 390,
+      "scrollWidth": 390
+    },
+    "errors": []
+  },
+  {
+    "name": "design-3-skill",
+    "url": "https://forge.tail5728ca.ts.net:8447/",
+    "initial": {
+      "renderer": "webgl",
+      "motion": "live",
+      "rotation": {
+        "x": 0,
+        "y": 0
+      },
+      "stretch": 0,
+      "frequency": 0,
+      "unraveled": false,
+      "secret": false,
+      "frames": 25,
+      "sceneTime": 0.9520000000000003,
+      "renderCalls": 3,
+      "triangles": 17280,
+      "current": "#home",
+      "entryInProgress": false,
+      "pixelRatio": 1
+    },
+    "dragged": {
+      "renderer": "webgl",
+      "motion": "live",
+      "rotation": {
+        "x": 0.35100000000000003,
+        "y": 0.9693955078125001
+      },
+      "stretch": 0.13021657844463383,
+      "frequency": 0,
+      "unraveled": false,
+      "secret": false,
+      "frames": 84,
+      "sceneTime": 3.312000000000002,
+      "renderCalls": 3,
+      "triangles": 17280,
+      "current": "#home",
+      "entryInProgress": false,
+      "pixelRatio": 1
+    },
+    "entered": {
+      "y": 900,
+      "active": "afterlight-title",
+      "diagnostics": {
+        "renderer": "webgl",
+        "motion": "live",
+        "rotation": {
+          "x": 0,
+          "y": 0
+        },
+        "stretch": 0,
+        "frequency": 0,
+        "unraveled": false,
+        "secret": false,
+        "frames": 162,
+        "sceneTime": 3.3353999999999977,
+        "renderCalls": 2,
+        "triangles": 0,
+        "current": "#afterlight",
+        "entryInProgress": false,
+        "pixelRatio": 1
+      }
+    },
+    "worlds": [
+      {
+        "section": "#afterlight",
+        "before": {
+          "renderer": "webgl",
+          "motion": "live",
+          "rotation": {
+            "x": 0,
+            "y": 0
+          },
+          "stretch": 0,
+          "frequency": 0,
+          "unraveled": false,
+          "secret": false,
+          "frames": 221,
+          "sceneTime": 4.3186,
+          "renderCalls": 2,
+          "triangles": 0,
+          "current": "#afterlight",
+          "entryInProgress": false,
+          "pixelRatio": 1
+        },
+        "after": {
+          "renderer": "webgl",
+          "motion": "live",
+          "rotation": {
+            "x": 0,
+            "y": 0
+          },
+          "stretch": 0,
+          "frequency": 0,
+          "unraveled": false,
+          "secret": false,
+          "frames": 278,
+          "sceneTime": 5.285200000000012,
+          "renderCalls": 2,
+          "triangles": 0,
+          "current": "#afterlight",
+          "entryInProgress": false,
+          "pixelRatio": 1
+        }
+      },
+      {
+        "section": "#offgrid",
+        "before": {
+          "renderer": "webgl",
+          "motion": "live",
+          "rotation": {
+            "x": 0,
+            "y": 0
+          },
+          "stretch": 0,
+          "frequency": 0,
+          "unraveled": false,
+          "secret": false,
+          "frames": 317,
+          "sceneTime": 6.1320000000000165,
+          "renderCalls": 2,
+          "triangles": 9900,
+          "current": "#offgrid",
+          "entryInProgress": false,
+          "pixelRatio": 1
+        },
+        "after": {
+          "renderer": "webgl",
+          "motion": "live",
+          "rotation": {
+            "x": 0,
+            "y": 0
+          },
+          "stretch": 0,
+          "frequency": 2.607521902479528,
+          "unraveled": false,
+          "secret": false,
+          "frames": 366,
+          "sceneTime": 7.2819000000000305,
+          "renderCalls": 2,
+          "triangles": 9900,
+          "current": "#offgrid",
+          "entryInProgress": false,
+          "pixelRatio": 1
+        }
+      },
+      {
+        "section": "#paradox",
+        "before": {
+          "renderer": "webgl",
+          "motion": "live",
+          "rotation": {
+            "x": 0,
+            "y": 0
+          },
+          "stretch": 0,
+          "frequency": 2.607521902479528,
+          "unraveled": false,
+          "secret": false,
+          "frames": 383,
+          "sceneTime": 7.90860000000003,
+          "renderCalls": 2,
+          "triangles": 17280,
+          "current": "#paradox",
+          "entryInProgress": false,
+          "pixelRatio": 1
+        },
+        "after": {
+          "renderer": "webgl",
+          "motion": "live",
+          "rotation": {
+            "x": 0,
+            "y": 0
+          },
+          "stretch": 0,
+          "frequency": 2.607521902479528,
+          "unraveled": true,
+          "secret": false,
+          "frames": 407,
+          "sceneTime": 8.868600000000011,
+          "renderCalls": 2,
+          "triangles": 17280,
+          "current": "#paradox",
+          "entryInProgress": false,
+          "pixelRatio": 1
+        }
+      }
+    ],
+    "secret": {
+      "renderer": "webgl",
+      "motion": "live",
+      "rotation": {
+        "x": 0,
+        "y": 0
+      },
+      "stretch": 0,
+      "frequency": 2.607521902479528,
+      "unraveled": true,
+      "secret": true,
+      "frames": 426,
+      "sceneTime": 9.628599999999995,
+      "renderCalls": 9,
+      "triangles": 26688,
+      "current": "#paradox",
+      "entryInProgress": false,
+      "pixelRatio": 1
+    },
+    "contact": " OPEN TO THE UNEXPECTED\nTHE NEXT WORLD STARTS WITH A HELLO.\nYOUR MOVE.\n\nGot a beautifully unreasonable idea?\nWe’re already listening.\n\nMake something matter\n↗\nhello@rift.studio\n↗\nRIFT\n®\nINDEPENDENT MINDS. SHARED WORLDS.\nSend this to a friend ↗\nBACK TO REALITY ↑",
+    "layout": {
+      "width": 390,
+      "scrollWidth": 390
+    },
+    "errors": []
+  }
+]
