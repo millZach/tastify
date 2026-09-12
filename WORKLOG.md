@@ -120,3 +120,15 @@ v4 frozen at `evaluation/skill-snapshots/design-v4.md` (SHA-256 `1e90170513335f0
 ## Rename to tastify — 2026-09-11
 
 Zach named the skill `tastify`. Folder moved from `skills/design` to `skills/tastify`; frontmatter `name` and title updated; content otherwise identical to v5. Live links in the evaluation files point at the new path; historical review text that names the old path is left as written. Validator passes. SHA-256 after rename: `327c6182b25e34be79d2217dc12ada2493e81159aa575ce6e5eab6a8cd2bfc2b`.
+
+## Open item: publish before/after pages — added 2026-09-11
+
+Once trials are finished, add the rendered trial pages to the public repo and link them from the README as before-skill and after-skill pairs. Plan: for each trial, copy the production build (`dist/`, including generated images and self-hosted fonts) into `examples/design-N/baseline/` and `examples/design-N/tastify/`, keep each pair's brief beside it, and serve them through GitHub Pages so visitors can open the live pages instead of reading source. Confirm each build still runs from a subfolder path before publishing. Not started.
+
+## Designs 8 and 9, Ember rerun, and the examples folder — 2026-09-11
+
+Zach ran three v5 pairs: Ember rerun (`design-6-noskill` vs `design-6as`), Foldline (`design-8-a` vs `design-8-as`), Orrery (`design-9a` vs `design-9as`). Transcript check: all three skill sessions read v5 from the pre-rename path before the folder became `tastify`; the design-9as "No such file" entries are a Playwright results file, unrelated. Zach judged the skill versions decisively better; the author agrees on all three first screens. Baselines reproduced the template on every subject (eyebrow with glyph, accent last line, three-line body, reassurance under the button, object right, handwritten aside).
+
+Remaining defects in skill outputs, noted in the README: section subtitles and footer slogans below the fold in Foldline and Orrery; Orrery keeps the planets right of the headline.
+
+Added `examples/`: `capture.mjs` (Playwright, 1440×900 and 390×844, 2× scale, 2.5 s settle after fonts) and `composite.py` (PIL pair images and the 2×3 grid). Raw captures in `examples/captures/`. README rewritten with the Foldline pair at the top, the grid, all pairs, briefs, and the updated trial table. Live HTML pages are still the open item above. Design 7 was not run.
