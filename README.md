@@ -23,7 +23,9 @@ Earlier versions of this skill restated good design principles and made no measu
 - **The focal asset earns most of the iterations.** Judged at displayed size for light, material, edge, and grounding shadow.
 - **One signature motion**, choreographed as invitation, response, and arrival.
 
-It also keeps hard floors for type size, a review pass at three widths, and checks for animation clipping inside its own drawing bounds.
+It also keeps hard floors for type size and checks for animation clipping inside its own drawing bounds. On invocation, it asks whether to optimize for desktop browsers, phones, or both, unless the brief already specifies the target. That choice determines the viewport and input coverage for the rendered review.
+
+Before implementation, the agent records observable acceptance checks and a relevant design reference. Before delivery, it records the rendered evidence for those checks, counts first-screen text by communicative purpose, and corrects unmet requirements.
 
 ## Using it
 
