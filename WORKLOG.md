@@ -132,3 +132,7 @@ Zach ran three v5 pairs: Ember rerun (`design-6-noskill` vs `design-6as`), Foldl
 Remaining defects in skill outputs, noted in the README: section subtitles and footer slogans below the fold in Foldline and Orrery; Orrery keeps the planets right of the headline.
 
 Added `examples/`: `capture.mjs` (Playwright, 1440×900 and 390×844, 2× scale, 2.5 s settle after fonts) and `composite.py` (PIL pair images and the 2×3 grid). Raw captures in `examples/captures/`. README rewritten with the Foldline pair at the top, the grid, all pairs, briefs, and the updated trial table. Live HTML pages are still the open item above. Design 7 was not run.
+
+## Auto-invocation and global install — 2026-09-11
+
+Description rewritten as a trigger pointer (fires on landing pages, websites, app screens, dashboards, components, redesigns, "make it look better", and any HTML/CSS/UI code). Pushed to `main` on GitHub. Installed globally by copying `skills/tastify` into `~/Fleet/managed/agents/skills/tastify` and running Fleet sync; live links exist at `~/.agents/skills/tastify` (Codex/Astra) and `~/.claude/skills/tastify` (Claude Code). The Fleet copy is a copy, not a link: after editing the skill here, re-copy it into Fleet and sync.
