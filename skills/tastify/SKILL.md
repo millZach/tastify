@@ -1,6 +1,6 @@
 ---
 name: tastify
-description: Design and refine websites, landing pages, and app interfaces, covering concept, composition, typography, imagery, color, and interactive behavior. Use for new interfaces, redesigns, and visual improvements.
+description: Use before writing or restyling any user-facing interface. Triggers on landing pages, websites, app screens, dashboards, components, redesigns, "make it look better", and any task that produces HTML, CSS, or UI code. Covers concept, composition, typography, imagery, color, copy, motion, and the rendered review.
 ---
 
 # Tastify
