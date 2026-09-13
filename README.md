@@ -2,7 +2,7 @@
 
 A design skill for coding agents. Same model, same prompt, fresh context. The only difference is one file.
 
-![Foldline: without the skill on the left, with Tastify on the right](examples/foldline-desktop-pair.png)
+![Pip: without the skill on the left, with Tastify on the right](examples/pip-desktop-pair.png)
 
 The skill is one file: [`skills/tastify/SKILL.md`](skills/tastify/SKILL.md). It gives a model a small set of checkable tests for choosing a composition, cutting decoration, and finishing the one thing on the page that matters, instead of a list of adjectives about good design.
 
@@ -50,6 +50,7 @@ Desktop first screens at 1440×900, phone at 390×844. Both conditions were give
 
 **Foldline.** *Build a website for Foldline, a puzzle game from a two-person studio where every level is a single sheet of paper you fold to bring the start and the exit together. It releases November 12 on Steam and Switch. Visitors should be able to fold a sheet themselves on the page, see three of its levels, and join the launch mailing list.*
 
+![Foldline desktop pair](examples/foldline-desktop-pair.png)
 ![Foldline phone pair](examples/foldline-phone-pair.png)
 
 **Orrery.** *Build a landing page for Orrery, a free web lesson that teaches ten-year-olds how the solar system actually works. Visitors should be able to drag time forward and back and watch the planets move at their real relative speeds, switch between true-scale sizes and true-scale distances, and start the first lesson.*
@@ -72,7 +73,6 @@ The closest pair. Both builds landed on the same art direction. The skill versio
 
 Without the skill, the opening carries an eyebrow, an underline flourish, two reassurance checkmarks, three handwritten asides, a caption above the demo, and a row of feature tags in tiny type. With it, the opening is a headline, one sentence, one button, and a larger demo. Two small captions around the editor survived.
 
-![Pip desktop pair](examples/pip-desktop-pair.png)
 ![Pip phone pair](examples/pip-phone-pair.png)
 
 Every brief ended with the same two sentences: *You choose the visual style, composition, and interactions. Make it responsive and inspect it in the browser before you finish.*
