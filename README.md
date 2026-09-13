@@ -22,10 +22,9 @@ Earlier versions of this skill restated good design principles and made no measu
 - **Text stands alone.** One line per element, a fact appears once, and the first screen is budgeted to five text elements.
 - **The focal asset earns most of the iterations.** Judged at displayed size for light, material, edge, and grounding shadow.
 - **One signature motion**, choreographed as invitation, response, and arrival.
+- **Cut ornament, keep answers.** The agent lists the questions a visitor needs answered before acting. The first screen stays quiet, and the page below it answers every question with specifics.
 
-It also keeps hard floors for type size and checks for animation clipping inside its own drawing bounds. On invocation, it asks whether to optimize for desktop browsers, phones, or both, unless the brief already specifies the target. That choice determines the viewport and input coverage for the rendered review.
-
-Before implementation, the agent records observable acceptance checks and a relevant design reference. Before delivery, it records the rendered evidence for those checks, counts first-screen text by communicative purpose, and corrects unmet requirements.
+It also keeps hard floors for type size, a review pass at the target's widths, and checks for animation clipping inside its own drawing bounds. Before delivery the agent writes down two lists: the first screen's text elements with their count, and each visitor question with the section that answers it.
 
 ## Using it
 
@@ -72,6 +71,7 @@ The skill was built through matched trials: the same brief, model, and reasoning
 | 6, Ember stove | v4, then v5 | First trial the author called a large improvement. The v4 run still had a companion line on every element; v5 added the text budget and the rerun is the pair shown above. |
 | 8, Foldline | v5 | Not close. The baseline reproduced the template on a brand-new subject. |
 | 9, Orrery | v5 | Clear improvement on the first screen. The skill version still places the planets right of the headline, the layout this subject pulls toward. |
+| PR #1 | v6 | Added a device-target question and acceptance evidence. The author reported pages that were too sparse, with almost no information. Replaced by v7, which keeps the counting rule and requires every visitor question to be answered below the fold. v7 is untested. |
 
 Known remaining weaknesses in the skill outputs: section subtitles and footer slogans reappear below the fold, and familiar subjects still pull toward the headline-left, object-right layout. One run per brief; this is evidence, not a benchmark.
 
@@ -79,7 +79,7 @@ Captures, interaction records, and reviews are under [`evaluation/`](evaluation/
 
 ## Testing it yourself
 
-Use one brief in two fresh contexts with the same model and settings, one with the read-and-follow line above and one without. Give the folders neutral names; a folder called `noskill` tells the model it is the control. Before judging overall preference, count text elements on the first screen, count headings on the page, and check whether the opening escapes the template above.
+Use one brief in two fresh contexts with the same model and settings, one with the read-and-follow line above and one without. Give the folders neutral names; a folder called `noskill` tells the model it is the control. Before judging overall preference, count text elements on the first screen, count headings on the page, check whether the opening escapes the template above, and check that the page below the fold still answers what a visitor would ask.
 
 ## License
 

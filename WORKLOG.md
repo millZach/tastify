@@ -136,3 +136,18 @@ Added `examples/`: `capture.mjs` (Playwright, 1440×900 and 390×844, 2× scale,
 ## Auto-invocation and global install — 2026-09-11
 
 Description rewritten as a trigger pointer (fires on landing pages, websites, app screens, dashboards, components, redesigns, "make it look better", and any HTML/CSS/UI code). Pushed to `main` on GitHub. Installed globally by copying `skills/tastify` into `~/Fleet/managed/agents/skills/tastify` and running Fleet sync; live links exist at `~/.agents/skills/tastify` (Codex/Astra) and `~/.claude/skills/tastify` (Claude Code). The Fleet copy is a copy, not a link: after editing the skill here, re-copy it into Fleet and sync.
+
+## PR #1 (v6) regression and v7 — 2026-09-12
+
+PR #1 merged on GitHub: a blocking device-target question at the top of the skill, mandatory acceptance checks and compliance evidence, and a stricter first-screen counting rule (value and label count separately). 1,591 words. Zach reports a significant regression: pages came out too sparse, with almost no information. Cause, from the text: every rule in v5 and v6 removes (budget, "delete until five", companion lines, a fact appears once, what-breaks, merge sections), nothing requires information to be present, and v6's evidence step rewards deletion because deletions are what it asks the agent to report. The strict counting rule also made dashboards and data-heavy openings impossible to pass.
+
+v7 starts from v5 and keeps three v6 ideas: the counting rule by communicative purpose, writing down what the reference contributes, and an explicit finish condition. Changes:
+
+- Device target is inferred from the brief or existing interface; no signal means desktop and phone. No blocking question.
+- Visitor questions: before building, list what a visitor needs answered before acting; each gets a specific answer on the page. Removing an answer counts as breaking in the what-breaks test.
+- Companion line is defined (restates, introduces, captions, or reassures about a neighbor); a line that adds a new fact is content.
+- The five-element budget applies to a landing page's opening; in a working tool, the data is content and outside the budget.
+- Build the page: the first screen is spare, the page below is substantial, list-like sections get real density.
+- Review writes two lists: first-screen text with count, and each visitor question with its answering section.
+
+Snapshots: `evaluation/skill-snapshots/tastify-v5.md` (SHA-256 `8f576a1982c50723c74c1c1fdf8465bb766a114e4910a6ee586da53bf291313b`), `tastify-v6-pr1.md` (`4b779fd3a416725acc6d9d37c782801e1f39de40857b871b9401fb16679ca056`). v7: 1330 words, passes `quick_validate.py`, SHA-256 `8f9044dcc6f1dd50b66153c57dbe3fc8a302e7001ff73dd2adf1af2b00fbd036`. Untested in generation; next trial should rerun Foldline and check the opening budget, then whether all three levels, the release date and platforms, and the mailing list have real content below the fold.
