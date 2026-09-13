@@ -71,7 +71,9 @@ The skill was built through matched trials: the same brief, model, and reasoning
 | 6, Ember stove | v4, then v5 | First trial the author called a large improvement. The v4 run still had a companion line on every element; v5 added the text budget and the rerun is the pair shown above. |
 | 8, Foldline | v5 | Not close. The baseline reproduced the template on a brand-new subject. |
 | 9, Orrery | v5 | Clear improvement on the first screen. The skill version still places the planets right of the headline, the layout this subject pulls toward. |
-| PR #1 | v6 | Added a device-target question and acceptance evidence. The author reported pages that were too sparse, with almost no information. Replaced by v7, which keeps the counting rule and requires every visitor question to be answered below the fold. v7 is untested. |
+| PR #1 | v6 | Added a device-target question and acceptance evidence. The author reported pages that were too sparse, with almost no information. Replaced by v7, which keeps the counting rule and requires every visitor question to be answered below the fold. |
+| 10, Stratus clouds | v7 both sides | The intended control found the globally installed skill and loaded it without being asked, so both ran v7. Confirms automatic invocation; not a comparison. |
+| 11, Red Rising | v7 | Little visible difference beyond fewer words. The brief specified artwork, motion, and content, leaving the baseline's template less room. The author reports v7 fixed the sparse pages from v6. |
 
 Known remaining weaknesses in the skill outputs: section subtitles and footer slogans reappear below the fold, and familiar subjects still pull toward the headline-left, object-right layout. One run per brief; this is evidence, not a benchmark.
 

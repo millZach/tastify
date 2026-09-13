@@ -151,3 +151,11 @@ v7 starts from v5 and keeps three v6 ideas: the counting rule by communicative p
 - Review writes two lists: first-screen text with count, and each visitor question with its answering section.
 
 Snapshots: `evaluation/skill-snapshots/tastify-v5.md` (SHA-256 `8f576a1982c50723c74c1c1fdf8465bb766a114e4910a6ee586da53bf291313b`), `tastify-v6-pr1.md` (`4b779fd3a416725acc6d9d37c782801e1f39de40857b871b9401fb16679ca056`). v7: 1330 words, passes `quick_validate.py`, SHA-256 `8f9044dcc6f1dd50b66153c57dbe3fc8a302e7001ff73dd2adf1af2b00fbd036`. Untested in generation; next trial should rerun Foldline and check the opening budget, then whether all three levels, the release date and platforms, and the mailing list have real content below the fold.
+
+## Designs 10 and 11 on v7 — 2026-09-12
+
+Design 10 (Stratus clouds, `design-10-a` / `design-10-as`): transcripts show the `-a` session was given the plain brief and loaded `~/.agents/skills/tastify/SKILL.md` on its own, so both conditions ran v7. Neither opened the v5 snapshot. Useful as confirmation that automatic invocation works; not a comparison. Lesson: with the skill installed globally, a v5 or baseline run needs the link removed (`rm ~/.agents/skills/tastify`, restore with `fleet sync`) or an explicit instruction not to use it.
+
+Design 11 (Red Rising fan page, `design-11a` / `design-11as`): `-a` was told "Dont use the tastify skill" and never read the file (its own notes record "No tastify skill"); `-as` was started with `$tastify` and read v7 in full. An earlier plain-brief session in `design-11as` touched no skill and appears to be a restart. Zach saw little design difference beyond fewer words in the skill version. Likely cause: the brief itself specified artwork, living animation, and content, leaving the default template less room. Zach reports v7 fixed the sparse pages from v6.
+
+Next brief proposed: Pip, a browser pixel art editor with a draw-then-animate demo and cute pixel details around the site. Checks: sprite crispness at every size, a real walk cycle with more than two frames, whether decorative sprites earn their place, and whether the features, price, and editor link are all present.
