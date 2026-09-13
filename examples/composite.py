@@ -9,6 +9,8 @@ HERE = Path(__file__).parent
 CAP = HERE / "captures"
 OUT = HERE
 PAIRS = [("ember", "Ember"), ("foldline", "Foldline"), ("orrery", "Orrery")]
+# Pairs that get pair images but stay out of the 2x3 grid.
+EXTRA = [("redrising", "Red Rising"), ("pip", "Pip")]
 LEFT, RIGHT = "Without skill", "With Tastify"
 BG = (250, 249, 246)
 INK = (28, 28, 26)
@@ -87,7 +89,7 @@ def grid():
 
 
 if __name__ == "__main__":
-    for slug, title in PAIRS:
+    for slug, title in PAIRS + EXTRA:
         pair(slug, title, "desktop")
         pair(slug, title, "phone")
     grid()
