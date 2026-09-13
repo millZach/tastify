@@ -41,7 +41,7 @@ It was developed against GPT-6 Astra running in Codex. Nothing in it is model-sp
 
 ## More pairs
 
-Desktop first screens at 1440×900, phone at 390×844. Both conditions were given the exact brief shown.
+Desktop first screens at 1440×900, phone at 390×844. Both conditions were given the exact brief shown. The first three pairs used skill v5.
 
 **Ember.** *Build a landing page for Ember, a hand-built cast-iron wood stove made by two people in Vermont. Visitors should be able to see the fire, adjust the airflow and watch the flame respond, and request a quote at $2,400.*
 
@@ -56,6 +56,24 @@ Desktop first screens at 1440×900, phone at 390×844. Both conditions were give
 
 ![Orrery desktop pair](examples/orrery-desktop-pair.png)
 ![Orrery phone pair](examples/orrery-phone-pair.png)
+
+### Later pairs, skill v7
+
+These two ran after the skill was installed globally. The skill run started with `$tastify` and the control with "Do not use the tastify skill"; transcripts confirm the control never opened the skill file.
+
+**Red Rising.** *Build a fan-made landing page for Red Rising, the first novel in Pierce Brown's science fiction series. Darrow is a Red, a miner deep under the surface of Mars who believes his people are terraforming the planet for future generations. He learns the surface was settled centuries ago and his caste has been kept as slaves, so he is remade as a Gold to infiltrate the ruling class from inside its brutal academy, the Institute. The page should feature original artwork that represents the book, with animation that makes parts of it feel alive. Visitors should be able to understand the premise without spoilers past the opening chapters, explore the Color hierarchy from Gold down to Red and what each Color does in this society, see the reading order of the series, and find where to buy the first book. Use original artwork and your own words; do not reproduce the book covers or quote passages longer than a sentence.*
+
+The closest pair. Both builds landed on the same art direction. The skill version drops the eyebrow, the second tagline, the secondary link, the scroll cue, and the strip of tiny tags along the bottom.
+
+![Red Rising desktop pair](examples/redrising-desktop-pair.png)
+![Red Rising phone pair](examples/redrising-phone-pair.png)
+
+**Pip.** *Build a landing page for Pip, a pixel art editor that runs in the browser and makes it easy to draw a small character and bring it to life. Animated pixel art should live around the site, with cute pixel details that reward a visitor for exploring. The centerpiece is a demo of the tool: visitors watch a character get drawn pixel by pixel on the canvas, then see it animated into a walk cycle, and can take over to recolor it or change pixels themselves. Visitors should also learn what Pip does, including layers, palettes, onion skinning, and export to GIF and sprite sheets, see that it is free with a $12 one-time Pro upgrade, and open the editor.*
+
+Without the skill, the opening carries an eyebrow, an underline flourish, two reassurance checkmarks, three handwritten asides, a caption above the demo, and a row of feature tags in tiny type. With it, the opening is a headline, one sentence, one button, and a larger demo. Two small captions around the editor survived.
+
+![Pip desktop pair](examples/pip-desktop-pair.png)
+![Pip phone pair](examples/pip-phone-pair.png)
 
 Every brief ended with the same two sentences: *You choose the visual style, composition, and interactions. Make it responsive and inspect it in the browser before you finish.*
 
@@ -74,6 +92,7 @@ The skill was built through matched trials: the same brief, model, and reasoning
 | PR #1 | v6 | Added a device-target question and acceptance evidence. The author reported pages that were too sparse, with almost no information. Replaced by v7, which keeps the counting rule and requires every visitor question to be answered below the fold. |
 | 10, Stratus clouds | v7 both sides | The intended control found the globally installed skill and loaded it without being asked, so both ran v7. Confirms automatic invocation; not a comparison. |
 | 11, Red Rising | v7 | Little visible difference beyond fewer words. The brief specified artwork, motion, and content, leaving the baseline's template less room. The author reports v7 fixed the sparse pages from v6. |
+| 12, Pip pixel art editor | v7 | The baseline's opening filled with small type: an eyebrow, checkmarks, handwritten asides, and a feature strip. The skill version kept a headline, one sentence, one action, and a larger demo, with two small captions left around the editor. |
 
 Known remaining weaknesses in the skill outputs: section subtitles and footer slogans reappear below the fold, and familiar subjects still pull toward the headline-left, object-right layout. One run per brief; this is evidence, not a benchmark.
 
